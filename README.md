@@ -7,8 +7,6 @@ Shadure is a dark theme for Visual Studio Code, **heavily inspired by and ported
 ## Features
 
 - Dark, eye-friendly interface designed for long coding sessions.
-- Vibrant yet balanced color palette ported from Maxime Heckel's design system.
-- Clear distinction between UI elements and code syntax.
 - Optimized for readability across a wide range of languages, including JavaScript, TypeScript, and more.
 - Semantic highlighting support.
 
