@@ -2,7 +2,7 @@
   "name": "shadure",
   "displayName": "shadure",
   "description": "A VS Code dark theme inspired by and ported from Maxime Heckel's blog design system.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "bug-author",
   "engines": {
     "vscode": "^1.99.0"
