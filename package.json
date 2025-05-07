@@ -1,0 +1,41 @@
+{
+  "name": "shadure",
+  "displayName": "shadure",
+  "description": "A VS Code dark theme inspired by and ported from Maxime Heckel's blog design system.",
+  "version": "0.0.1",
+  "publisher": "bug-author",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "color theme",
+    "shadure"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#101117",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bug-author/shadure.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bug-author/shadure/issues"
+  },
+  "homepage": "https://github.com/bug-author/shadure#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "shadure",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shadure-color-theme.json"
+      }
+    ]
+  }
+}
