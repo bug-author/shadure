@@ -18,18 +18,8 @@ Shadure is a dark theme for Visual Studio Code, **heavily inspired by and ported
 
 1.  Open **Extensions** view (Ctrl+Shift+X or Cmd+Shift+X).
 2.  Search for `Shadure`.
-3.  Click **Install** on the "Shadure" theme by `[YOUR_PUBLISHER_DISPLAY_NAME_HERE]`.
+3.  Click **Install** on the "Shadure" theme by `bug-author`.
 4.  Open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P), type `Preferences: Color Theme`, and select **Shadure**.
-
-### Manual Installation (from .vsix)
-
-1.  Download the latest `.vsix` file from the [GitHub Releases page](https://github.com/[YOUR_GITHUB_USERNAME_HERE]/[YOUR_REPOSITORY_NAME_HERE]/releases).
-2.  Open VS Code.
-3.  Open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P).
-4.  Type `Extensions: Install from VSIX...` and select it.
-5.  Browse to the downloaded `.vsix` file and select it.
-6.  Reload VS Code if prompted.
-7.  Activate the theme as described below.
 
 ## Activating the Theme
 
